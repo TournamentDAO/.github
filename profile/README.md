@@ -10,8 +10,6 @@ Community Gaming is an all-in-one esports platform dedicated to democratizing co
 
 - **Quests and Fan Engagement**: Through our CG+ subscription, gamers can access daily quests, known as XPeditions, which include tournament participation, predictions, quizzes, and social media engagement. These activities offer additional earning opportunities and enhance community involvement. 
 
-- **Prediction Market**: Our upcoming gaming prediction market will allow fans to earn rewards by leveraging their insights into game outcomes, fostering deeper engagement within the gaming community. 
-
 - **GamerID**: This digital identity consolidates a player's achievements, linked accounts, and activity across the PVP ecosystem, enabling users to showcase their reputation and track their progress. 
 
 ## Mission
